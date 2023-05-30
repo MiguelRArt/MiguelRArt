@@ -2,7 +2,7 @@
 Soy Miguel Riaño, Estudiante de Ingenieria de Sistemas, futuro desarrollador frontend. Joven capacitado para afrontar todo tipo de desafios que se presenten, con grandes habilidades para el desarrollo web y desarrollo de desktop apps.
 
 ## Skills
-* ![HTML](https://img.icons8.com/?size=48&id=20909&format=png)
+* HTML ![HTML](https://img.icons8.com/?size=48&id=20909&format=png)
 * CSS
 * JS 
 * JAVA 
