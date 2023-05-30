@@ -5,8 +5,8 @@ Soy Miguel Riaño, Estudiante de Ingenieria de Sistemas, futuro desarrollador fr
 * ![HTML](https://img.icons8.com/?size=24&id=20909&format=png) HTML 
 * ![CSS](https://img.icons8.com/?size=24&id=21278&format=png) CSS
 * ![CSS](https://img.icons8.com/?size=24&id=108784&format=png) JS
-* ![JAVA](https://img.icons8.com/?size=24&id=2572&format=png) JAVA 
-* ![PHP](https://img.icons8.com/?size=24&id=13460&format=png) PHP
+* ![JAVA](https://img.icons8.com/?size=24&id=48734&format=png) JAVA 
+* ![PHP](https://img.icons8.com/?size=24&id=pKaVdzbCJGgA&format=png) PHP
 * ![SQL](https://img.icons8.com/?size=24&id=3767&format=png) SQL(XAMPP, SQL SERVER, SQL WORKBENCH).
 
 ## Contact
