@@ -1,16 +1,14 @@
-### Hi there 👋
+# Miguel Riaño 👾
+Soy Miguel Riaño, Estudiante de Ingenieria de Sistemas, futuro desarrollador frontend. Joven capacitado para afrontar todo tipo de desafios que se presenten, con grandes habilidades para el desarrollo web y desarrollo de desktop apps.
 
-<!--
-**MiguelRArt/MiguelRArt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+> HTML 
+> CSS 
+> JS [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+> JAVA 
+> PHP
+> SQL(XAMPP, SQL SERVER, SQL WORKBENCH).
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+* angel4pride@gmail.com
+* https://www.linkedin.com/in/miguel-angel-ria%C3%B1o-alvarez-a727a726b/
